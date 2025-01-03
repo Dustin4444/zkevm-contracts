@@ -11,8 +11,6 @@
  "emergencyCouncilAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
  "polTokenAddress": "",
  "zkEVMDeployerAddress": "",
- "gasTokenAddress": "",
- "gasTokenNetwork": 0,
  "deployerPvtKey": "",
  "maxFeePerGas": "",
  "maxPriorityFeePerGas": "",

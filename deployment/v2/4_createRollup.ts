@@ -19,7 +19,6 @@ import "../helpers/utils";
 import updateVanillaGenesis from "./utils/updateVanillaGenesis";
 
 const pathOutputJson = path.join(__dirname, "./create_rollup_output.json");
-const deployParameters = require("./deploy_parameters.json");
 
 import {
     PolygonRollupManager,

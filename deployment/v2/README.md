@@ -64,8 +64,8 @@ A new folder will be created with the following name `deployments/${network}_$(d
 -   `trustedAggregator`: address, Trusted aggregator address
 -   `trustedAggregatorTimeout`: uint64, If a sequence is not verified in this timeout everyone can verify it
 -   `pendingStateTimeout`: uint64, Once a pending state exceeds this timeout it can be consolidated by everyone
--   `emergencyCouncilAddress`:address, Emergency council address
--   `polTokenAddress`: address, Matic token address, only if deploy on testnet can be left blank and will fulfilled by the scripts.
+-   `emergencyCouncilAddress`: address, Emergency council address
+-   `polTokenAddress`: address, POL token address, only if deploy on testnet can be left blank and will fulfilled by the scripts.
 -   `zkEVMDeployerAddress`: address, Address of the `PolygonZkEVMDeployer`. Can be left blank, will be fulfilled automatically with the `deploy:deployer:ZkEVM:goerli` script.
 
 ## create_rollup_parameters.json
