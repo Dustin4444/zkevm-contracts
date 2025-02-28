@@ -54,7 +54,7 @@ npm run docker:contracts
 Or if using new docker-compose version
 
 ```
-npm run dockerv2:contracts
+npm run dockerv2:contqracts
 ```
 
 A new docker `hermeznetwork/geth-zkevm-contracts` will be created
