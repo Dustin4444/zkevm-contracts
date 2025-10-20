@@ -41,7 +41,7 @@
     "dotenv": "^8.6.0",
     "eslint": "^8.51.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-mocha": "^9.0.0",
+    "eslint-plugin-mocha": "^11.1.0",
     "ethereum-waffle": "^3.4.4",
     "ffjavascript": "^0.2.60",
     "hardhat": "2.20.0",
